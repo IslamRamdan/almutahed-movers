@@ -1,0 +1,1174 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>المتحدة لنقل العفش والمكيفات بالرياض | نقل وتخزين الأثاث</title>
+    <meta name="description"
+        content="شركة المتحدة لنقل العفش والمكيفات بالرياض. خدمات نقل الأثاث وفك وتركيب المكيفات وتخزين العفش في شمال وجنوب وشرق وغرب الرياض. اتصل الآن 0575103571.">
+    <meta name="keywords"
+        content="نقل عفش بالرياض, شركة نقل أثاث الرياض, نقل مكيفات بالرياض, تخزين عفش الرياض, فك وتركيب الأثاث, نقل عفش شمال الرياض, نقل عفش جنوب الرياض">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#14283f">
+    <link rel="canonical" href="https://example.com/">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+
+    <link rel="stylesheet" href="css/all.min.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Playfair+Display:wght@400;500;600;700&display=swap"
+        rel="stylesheet" />
+
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.4/dist/aos.css" />
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+    <link rel="stylesheet" href="css/index.css" />
+</head>
+
+<body>
+    <header class="site-header">
+        <nav class="navbar navbar-expand-lg">
+            <div class="container">
+                <a class="navbar-brand" href="#home">
+                    <span class="brand-icon"><i class="fa-solid fa-truck-fast"></i></span>
+                    <span class="brand-name">المتحدة <small>لنقل العفش والمكيفات</small></span>
+                </a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav"
+                    aria-controls="mainNav" aria-expanded="false" aria-label="فتح القائمة">
+                    <i class="fa-solid fa-bars"></i>
+                </button>
+
+                <div class="collapse navbar-collapse" id="mainNav">
+                    <ul class="navbar-nav mx-auto">
+                        <li class="nav-item"><a class="nav-link" href="#home">الرئيسية</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#about">من نحن</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#services">خدماتنا</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#why-us">لماذا نحن</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{ route('blog.index') }}">المدونة</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#works">أعمالنا</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#contact">تواصل معنا</a></li>
+                    </ul>
+                    <a class="btn btn-main nav-cta" href="tel:0575103571">
+                        <i class="fa-solid fa-phone"></i>
+                        اتصل الآن
+                    </a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero-section" id="home">
+            <div class="hero-overlay"></div>
+
+            <div class="container hero-content">
+                <div class="row align-items-center gy-5">
+
+                    <div class="col-lg-7">
+                        <span class="hero-badge">
+                            <i class="fa-solid fa-truck-fast"></i>
+                            نقل عفش داخل الرياض وخارجها
+                        </span>
+
+                        <h1>
+                            نقل عفشك بكل
+                            <span>أمان وراحة</span>
+                            داخل الرياض وخارجها
+                        </h1>
+
+                        <p class="hero-description">
+                            مع المتحدة لنقل العفش والمكيفات، نقدم خدمات نقل الأثاث
+                            داخل الرياض وإلى مختلف مدن المملكة، مع الاهتمام بسلامة
+                            ممتلكاتك وتوفير خدمات فك وتركيب الأثاث والمكيفات والتخزين،
+                            لنمنحك تجربة نقل مريحة ومنظمة من البداية حتى الوصول.
+                        </p>
+
+                        <div class="hero-actions">
+                            <a href="tel:0575103571" class="btn btn-main btn-lg">
+                                <i class="fa-solid fa-phone-volume"></i>
+                                اتصل لطلب الخدمة
+                            </a>
+
+                            <a href="https://wa.me/966575103571" class="btn btn-outline-light btn-lg" target="_blank"
+                                rel="noopener">
+                                <i class="fa-brands fa-whatsapp"></i>
+                                تواصل عبر واتساب
+                            </a>
+                        </div>
+
+                        <div class="hero-features">
+                            <span>
+                                <i class="fa-solid fa-circle-check"></i>
+                                نقل داخل الرياض
+                            </span>
+
+                            <span>
+                                <i class="fa-solid fa-circle-check"></i>
+                                نقل خارج الرياض
+                            </span>
+
+                            <span>
+                                <i class="fa-solid fa-circle-check"></i>
+                                عناية بالأثاث
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-5">
+                        <div class="hero-card">
+                            <div class="hero-card-icon">
+                                <i class="fa-solid fa-boxes-stacked"></i>
+                            </div>
+
+                            <span class="hero-card-label">
+                                خدمات نقل متكاملة
+                            </span>
+
+                            <h2>
+                                من باب بيتك إلى وجهتك الجديدة
+                            </h2>
+
+                            <p>
+                                أينما كانت وجهتك، داخل الرياض أو خارجها،
+                                نساعدك في نقل أثاثك بعناية وتنظيم مع توفير
+                                الخدمات التي تحتاجها في كل خطوة.
+                            </p>
+
+                            <div class="hero-card-bottom">
+                                <span>
+                                    <i class="fa-solid fa-truck-moving"></i>
+                                    نقل الأثاث
+                                </span>
+
+                                <span>
+                                    <i class="fa-solid fa-snowflake"></i>
+                                    نقل المكيفات
+                                </span>
+
+                                <span>
+                                    <i class="fa-solid fa-warehouse"></i>
+                                    التخزين
+                                </span>
+                            </div>
+
+                            <div class="hero-card-location">
+                                <i class="fa-solid fa-location-dot"></i>
+                                <span>داخل الرياض وإلى مختلف مدن المملكة</span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <a href="#about" class="scroll-down" aria-label="انتقل إلى من نحن">
+                <i class="fa-solid fa-arrow-down"></i>
+            </a>
+        </section>
+
+        <section class="about-section section-padding" id="about">
+            <div class="container">
+                <div class="row align-items-center gy-5">
+
+                    <div class="col-lg-6">
+                        <div class="about-visual">
+                            <img src="images/1.jpg" alt="خدمات نقل العفش والأثاث داخل الرياض وخارجها" loading="lazy">
+
+                            <div class="about-floating">
+                                <i class="fa-solid fa-truck-fast"></i>
+                                <div>
+                                    <strong>داخل الرياض وخارجها</strong>
+                                    <span>نقل بعناية واهتمام</span>
+                                </div>
+                            </div>
+
+                            <div class="about-decoration"></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <span class="section-tag">من نحن</span>
+
+                        <h2 class="section-title">
+                            المتحدة لنقل العفش والمكيفات داخل الرياض وخارجها
+                        </h2>
+
+                        <p class="section-description">
+                            نقدم في المتحدة خدمات نقل العفش والأثاث والمكيفات داخل الرياض
+                            وخارجها إلى مختلف مدن المملكة العربية السعودية، مع الحرص على
+                            سلامة المنقولات وتنظيم جميع مراحل النقل لتوفير تجربة انتقال
+                            أكثر راحة وسهولة.
+                        </p>
+
+                        <p class="text-muted-custom">
+                            سواء كنت تنتقل إلى منزل جديد، أو ترغب في نقل أثاث مكتبك،
+                            أو تحتاج إلى فك وتركيب الأثاث والمكيفات أو تخزين ممتلكاتك،
+                            نوفر لك خدمات متكاملة تناسب احتياجاتك، مع الاهتمام بالتفاصيل
+                            من بداية النقل حتى الوصول إلى وجهتك.
+                        </p>
+
+                        <div class="about-points">
+                            <div>
+                                <i class="fa-solid fa-check"></i>
+                                <span>نقل العفش داخل الرياض وبين مدن المملكة</span>
+                            </div>
+
+                            <div>
+                                <i class="fa-solid fa-check"></i>
+                                <span>فك وتركيب الأثاث والمكيفات</span>
+                            </div>
+
+                            <div>
+                                <i class="fa-solid fa-check"></i>
+                                <span>خدمات تخزين العفش والأثاث</span>
+                            </div>
+
+                            <div>
+                                <i class="fa-solid fa-check"></i>
+                                <span>خدمات نقل في جميع أحياء الرياض</span>
+                            </div>
+                        </div>
+
+                        <a href="#contact" class="btn btn-main mt-4">
+                            اطلب خدمتك الآن
+                            <i class="fa-solid fa-arrow-left"></i>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <section class="services-section section-padding" id="services">
+            <div class="container">
+                <div class="section-heading text-center">
+                    <span class="section-tag">خدماتنا</span>
+                    <h2 class="section-title">خدمات نقل عفش متكاملة داخل الرياض وخارجها</h2>
+                    <p class="section-description">
+                        نوفر خدمات نقل الأثاث والمكيفات وفك وتركيب العفش وتخزينه،
+                        داخل جميع أحياء الرياض وإلى مختلف مدن المملكة العربية السعودية.
+                    </p>
+                </div>
+
+                <div class="row g-4 mt-3">
+                    <div class="col-md-6 col-lg-3">
+                        <article class="service-card">
+                            <div class="service-image">
+                                <img src="images/service-1.jpg" alt="نقل العفش والأثاث داخل الرياض وخارجها"
+                                    loading="lazy">
+                            </div>
+                            <div class="service-content">
+                                <h3>نقل العفش والأثاث</h3>
+                                <p>
+                                    نقل أثاث المنازل والشقق والمكاتب داخل الرياض
+                                    وخارجها إلى مختلف مدن المملكة، مع الاهتمام بسلامة
+                                    المنقولات خلال رحلة النقل.
+                                </p>
+                                <a href="#contact" class="service-link">
+                                    اطلب الخدمة
+                                    <i class="fa-solid fa-arrow-left"></i>
+                                </a>
+                            </div>
+                        </article>
+                    </div>
+
+                    <div class="col-md-6 col-lg-3">
+                        <article class="service-card">
+                            <div class="service-image">
+                                <img src="images/service-2.jpg" alt="فك وتركيب الأثاث وتجهيزه للنقل" loading="lazy">
+                            </div>
+                            <div class="service-content">
+                                <h3>فك وتركيب الأثاث</h3>
+                                <p>
+                                    تجهيز الأثاث قبل الانتقال وإعادة تركيبه في
+                                    وجهتك الجديدة، لتسهيل النقل داخل الرياض
+                                    أو إلى المدن الأخرى.
+                                </p>
+                                <a href="#contact" class="service-link">
+                                    اطلب الخدمة
+                                    <i class="fa-solid fa-arrow-left"></i>
+                                </a>
+                            </div>
+                        </article>
+                    </div>
+
+                    <div class="col-md-6 col-lg-3">
+                        <article class="service-card">
+                            <div class="service-image">
+                                <img src="images/service3.jpg" alt="خدمات نقل المكيفات عند الانتقال" loading="lazy">
+                            </div>
+                            <div class="service-content">
+                                <h3>نقل المكيفات</h3>
+                                <p>
+                                    خدمات نقل المكيفات ضمن ترتيبات انتقالك،
+                                    مع إمكانية الاستفسار عن الفك والتركيب
+                                    لتناسب احتياجات موقعك الجديد.
+                                </p>
+                                <a href="#contact" class="service-link">
+                                    اطلب الخدمة
+                                    <i class="fa-solid fa-arrow-left"></i>
+                                </a>
+                            </div>
+                        </article>
+                    </div>
+
+                    <div class="col-md-6 col-lg-3">
+                        <article class="service-card">
+                            <div class="service-image">
+                                <img src="images/service4.jpg" alt="خدمات تخزين العفش والأثاث" loading="lazy">
+                            </div>
+                            <div class="service-content">
+                                <h3>تخزين العفش</h3>
+                                <p>
+                                    حلول تخزين للأثاث عند الحاجة إلى مساحة إضافية
+                                    خلال الانتقال أو تجديد المنزل، وفق احتياجاتك
+                                    ومدة التخزين المناسبة.
+                                </p>
+                                <a href="#contact" class="service-link">
+                                    اطلب الخدمة
+                                    <i class="fa-solid fa-arrow-left"></i>
+                                </a>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="why-section section-padding" id="why-us">
+            <div class="container">
+                <div class="row align-items-center gy-5">
+
+                    <div class="col-lg-5">
+                        <div class="why-visual">
+                            <img src="images/2.jpg" alt="تجهيز الأثاث والعناية به أثناء الانتقال"
+                                class="why-main-image" loading="lazy">
+
+                            <div class="why-image-overlay"></div>
+
+
+
+                            <div class="why-image-decoration"></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-7">
+                        <div class="why-content">
+                            <span class="section-tag">
+                                <i class="fa-solid fa-star"></i>
+                                لماذا المتحدة؟
+                            </span>
+
+                            <h2 class="section-title">
+                                وجهتك الجديدة أقرب مع
+                                <span>خدمات نقل عفش متكاملة</span>
+                            </h2>
+
+                            <p class="section-description">
+                                نوفر خدمات نقل الأثاث والمكيفات داخل الرياض وخارجها،
+                                مع تنظيم خطوات النقل والاهتمام بممتلكاتك وتنسيق
+                                الخدمات التي تحتاج إليها لتجربة انتقال أكثر سهولة وراحة.
+                            </p>
+
+                            <div class="why-grid">
+
+                                <div class="why-card">
+                                    <span class="why-number">01</span>
+                                    <div class="why-icon">
+                                        <i class="fa-solid fa-box-open"></i>
+                                    </div>
+                                    <h3>عناية بممتلكاتك</h3>
+                                    <p>
+                                        الاهتمام بتجهيز الأثاث والتعامل معه بعناية
+                                        خلال مختلف مراحل النقل حتى الوصول.
+                                    </p>
+                                </div>
+
+                                <div class="why-card">
+                                    <span class="why-number">02</span>
+                                    <div class="why-icon">
+                                        <i class="fa-solid fa-route"></i>
+                                    </div>
+                                    <h3>داخل الرياض وخارجها</h3>
+                                    <p>
+                                        نقل العفش داخل أحياء الرياض وإلى مختلف
+                                        مدن المملكة حسب وجهتك.
+                                    </p>
+                                </div>
+
+                                <div class="why-card">
+                                    <span class="why-number">03</span>
+                                    <div class="why-icon">
+                                        <i class="fa-solid fa-list-check"></i>
+                                    </div>
+                                    <h3>تنظيم خطوات النقل</h3>
+                                    <p>
+                                        تنسيق متطلبات النقل والخدمات المناسبة
+                                        لتجربة انتقال أكثر تنظيمًا.
+                                    </p>
+                                </div>
+
+                                <div class="why-card">
+                                    <span class="why-number">04</span>
+                                    <div class="why-icon">
+                                        <i class="fa-solid fa-truck-fast"></i>
+                                    </div>
+                                    <h3>خدمات متكاملة</h3>
+                                    <p>
+                                        نقل الأثاث وفكه وتركيبه ونقل المكيفات
+                                        وخيارات تخزين العفش.
+                                    </p>
+                                </div>
+
+                            </div>
+
+                            <a href="https://wa.me/966575103571" target="_blank" rel="noopener"
+                                class="btn btn-main why-contact-btn">
+                                <i class="fa-brands fa-whatsapp"></i>
+                                استفسر عن خدمة النقل
+                                <i class="fa-solid fa-arrow-left"></i>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <section class="works-section section-padding" id="works">
+            <div class="container">
+                <div class="section-heading text-center">
+                    <span class="section-tag">أعمالنا</span>
+                    <h2 class="section-title">شاهد خدماتنا بالفيديو</h2>
+                    <p class="section-description">
+                        تعرّف على خدمات المتحدة لنقل العفش والمكيفات،
+                        من نقل الأثاث وتجهيزه إلى خدماتنا داخل الرياض وخارجها.
+                    </p>
+                </div>
+
+                <div class="row g-4 mt-3">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="work-card">
+                            <div class="work-video">
+                                <video controls preload="metadata" playsinline>
+                                    <source src="images/1.mp4" type="video/mp4">
+                                    متصفحك لا يدعم تشغيل الفيديو.
+                                </video>
+                                <span class="video-label">
+                                    <i class="fa-solid fa-truck-moving"></i>
+                                    نقل الأثاث
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="work-card">
+                            <div class="work-video">
+                                <video controls preload="metadata" playsinline>
+                                    <source src="images/2.mp4" type="video/mp4">
+                                    متصفحك لا يدعم تشغيل الفيديو.
+                                </video>
+                                <span class="video-label">
+                                    <i class="fa-solid fa-box-open"></i>
+                                    تجهيز العفش للنقل
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="work-card">
+                            <div class="work-video">
+                                <video controls preload="metadata" playsinline>
+                                    <source src="images/3.mp4" type="video/mp4">
+                                    متصفحك لا يدعم تشغيل الفيديو.
+                                </video>
+                                <span class="video-label">
+                                    <i class="fa-solid fa-couch"></i>
+                                    نقل الأثاث المنزلي
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="work-card">
+                            <div class="work-video">
+                                <video controls preload="metadata" playsinline>
+                                    <source src="images/4.mp4" type="video/mp4">
+                                    متصفحك لا يدعم تشغيل الفيديو.
+                                </video>
+                                <span class="video-label">
+                                    <i class="fa-solid fa-screwdriver-wrench"></i>
+                                    فك وتركيب الأثاث
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="work-card">
+                            <div class="work-video">
+                                <video controls preload="metadata" playsinline>
+                                    <source src="images/5.mp4" type="video/mp4">
+                                    متصفحك لا يدعم تشغيل الفيديو.
+                                </video>
+                                <span class="video-label">
+                                    <i class="fa-solid fa-truck-fast"></i>
+                                    نقل العفش داخل الرياض
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="work-card">
+                            <div class="work-video">
+                                <video controls preload="metadata" playsinline>
+                                    <source src="images/6.mp4" type="video/mp4">
+                                    متصفحك لا يدعم تشغيل الفيديو.
+                                </video>
+                                <span class="video-label">
+                                    <i class="fa-solid fa-route"></i>
+                                    النقل خارج الرياض
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="work-card">
+                            <div class="work-video">
+                                <video controls preload="metadata" playsinline>
+                                    <source src="images/7.mp4" type="video/mp4">
+                                    متصفحك لا يدعم تشغيل الفيديو.
+                                </video>
+                                <span class="video-label">
+                                    <i class="fa-solid fa-snowflake"></i>
+                                    نقل المكيفات
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="work-card">
+                            <div class="work-video">
+                                <video controls preload="metadata" playsinline>
+                                    <source src="images/8.mp4" type="video/mp4">
+                                    متصفحك لا يدعم تشغيل الفيديو.
+                                </video>
+                                <span class="video-label">
+                                    <i class="fa-solid fa-people-carry-box"></i>
+                                    نقل الأثاث بعناية
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="work-card">
+                            <div class="work-video">
+                                <video controls preload="metadata" playsinline>
+                                    <source src="images/9.mp4" type="video/mp4">
+                                    متصفحك لا يدعم تشغيل الفيديو.
+                                </video>
+                                <span class="video-label">
+                                    <i class="fa-solid fa-warehouse"></i>
+                                    خدمات تخزين العفش
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="work-card">
+                            <div class="work-video">
+                                <video controls preload="metadata" playsinline>
+                                    <source src="images/10.mp4" type="video/mp4">
+                                    متصفحك لا يدعم تشغيل الفيديو.
+                                </video>
+                                <span class="video-label">
+                                    <i class="fa-solid fa-truck"></i>
+                                    خدمات النقل المتكاملة
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="break-section">
+            <div class="break-overlay"></div>
+
+            <div class="container break-content text-center">
+                <span>نقل عفشك داخل الرياض وخارجها</span>
+
+                <h2>وجهتك الجديدة تبدأ معنا بكل سهولة</h2>
+
+                <p>
+                    سواء كنت تنتقل داخل الرياض أو إلى مدينة أخرى في المملكة،
+                    تواصل مع المتحدة لنقل العفش والمكيفات ورتّب خدمة النقل المناسبة لك.
+                </p>
+
+                <div class="d-flex flex-wrap justify-content-center gap-3">
+                    <a href="tel:0575103571" class="btn btn-main btn-lg">
+                        <i class="fa-solid fa-phone"></i>
+                        0575103571
+                    </a>
+
+                    <a href="https://wa.me/966575103571" target="_blank" rel="noopener"
+                        class="btn btn-outline-light btn-lg">
+                        <i class="fa-brands fa-whatsapp"></i>
+                        تواصل عبر واتساب
+                    </a>
+                </div>
+            </div>
+        </section>
+        <section class="reviews-section section-padding" id="reviews">
+            <div class="container">
+
+                <div class="reviews-heading">
+                    <div class="reviews-heading-content">
+                        <span class="section-tag">
+                            <i class="fa-solid fa-star"></i>
+                            آراء العملاء
+                        </span>
+
+                        <h2 class="section-title">
+                            ثقتكم هي <span>أكبر نجاح لنا</span>
+                        </h2>
+
+                        <p class="section-description">
+                            نسعى لتقديم تجربة نقل مريحة ومنظمة، مع الاهتمام
+                            بتفاصيل نقل العفش والمكيفات داخل الرياض وخارجها.
+                        </p>
+                    </div>
+
+                    <div class="reviews-summary">
+                        <div class="reviews-summary-top">
+                            <div class="reviews-rating-number">5.0</div>
+                            <div class="reviews-rating-details">
+                                <div class="reviews-stars" aria-label="خمس نجوم">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                </div>
+                                <span>نسعد بثقتكم بنا</span>
+                            </div>
+                        </div>
+
+                        <div class="reviews-summary-footer">
+                            <i class="fa-solid fa-heart"></i>
+                            <span>رضاكم أولويتنا</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="reviews-slider" dir="rtl">
+                    <div class="reviews-track" id="reviewsTrack">
+
+                        <div class="review-slide">
+                            <article class="review-card">
+                                <div class="review-card-top">
+                                    <div class="review-avatar">
+                                        <i class="fa-solid fa-user"></i>
+                                    </div>
+                                    <div class="review-customer">
+                                        <h3>نقل الأثاث المنزلي</h3>
+                                        <span>خدمات نقل العفش</span>
+                                    </div>
+                                    <i class="fa-solid fa-quote-left review-quote"></i>
+                                </div>
+
+                                <div class="reviews-stars" aria-label="خمس نجوم">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                </div>
+
+                                <p class="review-text">
+                                    نهتم بتوفير تجربة نقل منظمة تبدأ بالتنسيق
+                                    المسبق وتنتهي بوصول الأثاث إلى وجهته الجديدة.
+                                </p>
+
+                                <div class="review-card-footer">
+                                    <span>
+                                        <i class="fa-solid fa-couch"></i>
+                                        نقل الأثاث
+                                    </span>
+                                    <i class="fa-solid fa-shield-halved review-check"></i>
+                                </div>
+                            </article>
+                        </div>
+
+                        <div class="review-slide">
+                            <article class="review-card review-card-featured">
+                                <div class="review-card-top">
+                                    <div class="review-avatar">
+                                        <i class="fa-solid fa-user"></i>
+                                    </div>
+                                    <div class="review-customer">
+                                        <h3>فك وتركيب الأثاث</h3>
+                                        <span>خدمات متكاملة</span>
+                                    </div>
+                                    <i class="fa-solid fa-quote-left review-quote"></i>
+                                </div>
+
+                                <div class="reviews-stars" aria-label="خمس نجوم">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                </div>
+
+                                <p class="review-text">
+                                    نوفر خدمات فك وتركيب الأثاث لتسهيل الانتقال،
+                                    مع تنسيق متطلبات النقل بما يناسب احتياجات العميل.
+                                </p>
+
+                                <div class="review-card-footer">
+                                    <span>
+                                        <i class="fa-solid fa-screwdriver-wrench"></i>
+                                        فك وتركيب
+                                    </span>
+                                    <i class="fa-solid fa-shield-halved review-check"></i>
+                                </div>
+                            </article>
+                        </div>
+
+                        <div class="review-slide">
+                            <article class="review-card">
+                                <div class="review-card-top">
+                                    <div class="review-avatar">
+                                        <i class="fa-solid fa-user"></i>
+                                    </div>
+                                    <div class="review-customer">
+                                        <h3>النقل خارج الرياض</h3>
+                                        <span>النقل بين المدن</span>
+                                    </div>
+                                    <i class="fa-solid fa-quote-left review-quote"></i>
+                                </div>
+
+                                <div class="reviews-stars" aria-label="خمس نجوم">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                </div>
+
+                                <p class="review-text">
+                                    ننسق طلبات نقل العفش من الرياض إلى المدن الأخرى
+                                    داخل المملكة، وفق موقع الانطلاق والوجهة المطلوبة.
+                                </p>
+
+                                <div class="review-card-footer">
+                                    <span>
+                                        <i class="fa-solid fa-route"></i>
+                                        نقل بين المدن
+                                    </span>
+                                    <i class="fa-solid fa-shield-halved review-check"></i>
+                                </div>
+                            </article>
+                        </div>
+
+                        <div class="review-slide">
+                            <article class="review-card">
+                                <div class="review-card-top">
+                                    <div class="review-avatar">
+                                        <i class="fa-solid fa-user"></i>
+                                    </div>
+                                    <div class="review-customer">
+                                        <h3>نقل المكيفات</h3>
+                                        <span>خدمات نقل إضافية</span>
+                                    </div>
+                                    <i class="fa-solid fa-quote-left review-quote"></i>
+                                </div>
+
+                                <div class="reviews-stars" aria-label="خمس نجوم">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                </div>
+
+                                <p class="review-text">
+                                    يمكنك تنسيق نقل المكيفات ضمن احتياجات انتقالك،
+                                    والاستفسار عن خدمات الفك والتركيب المتاحة.
+                                </p>
+
+                                <div class="review-card-footer">
+                                    <span>
+                                        <i class="fa-solid fa-snowflake"></i>
+                                        نقل المكيفات
+                                    </span>
+                                    <i class="fa-solid fa-shield-halved review-check"></i>
+                                </div>
+                            </article>
+                        </div>
+
+                        <div class="review-slide">
+                            <article class="review-card">
+                                <div class="review-card-top">
+                                    <div class="review-avatar">
+                                        <i class="fa-solid fa-user"></i>
+                                    </div>
+                                    <div class="review-customer">
+                                        <h3>تخزين العفش</h3>
+                                        <span>حلول التخزين</span>
+                                    </div>
+                                    <i class="fa-solid fa-quote-left review-quote"></i>
+                                </div>
+
+                                <div class="reviews-stars" aria-label="خمس نجوم">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                </div>
+
+                                <p class="review-text">
+                                    يمكنك الاستفسار عن خيارات تخزين الأثاث التي
+                                    تناسب احتياجاتك خلال الانتقال أو تجديد المنزل.
+                                </p>
+
+                                <div class="review-card-footer">
+                                    <span>
+                                        <i class="fa-solid fa-warehouse"></i>
+                                        تخزين العفش
+                                    </span>
+                                    <i class="fa-solid fa-shield-halved review-check"></i>
+                                </div>
+                            </article>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="reviews-slider-controls">
+                    <div class="reviews-slider-dots" id="reviewsDots"></div>
+
+                    <div class="reviews-slider-arrows">
+                        <button type="button" class="reviews-arrow" id="reviewsPrev" aria-label="التقييم السابق">
+                            <i class="fa-solid fa-arrow-right"></i>
+                        </button>
+                        <button type="button" class="reviews-arrow" id="reviewsNext" aria-label="التقييم التالي">
+                            <i class="fa-solid fa-arrow-left"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <div class="reviews-bottom">
+                    <div class="reviews-bottom-icon">
+                        <i class="fa-solid fa-comments"></i>
+                    </div>
+
+                    <div class="reviews-bottom-text">
+                        <h3>يسعدنا معرفة رأيك</h3>
+                        <p>تواصل معنا للاستفسار عن خدمات نقل العفش داخل الرياض وخارجها.</p>
+                    </div>
+
+                    <a href="https://wa.me/966575103571" class="btn btn-main" target="_blank" rel="noopener">
+                        تواصل معنا
+                        <i class="fa-solid fa-arrow-left"></i>
+                    </a>
+                </div>
+
+            </div>
+        </section>
+        <section class="contact-section section-padding" id="contact">
+            <div class="container">
+                <div class="section-heading text-center">
+                    <span class="section-tag">تواصل معنا</span>
+                    <h2 class="section-title">اطلب نقل عفشك داخل الرياض أو خارجها</h2>
+                    <p class="section-description">
+                        أينما كانت وجهتك، تواصل معنا لتنسيق نقل الأثاث والمكيفات
+                        وتحديد الخدمات التي تحتاج إليها داخل الرياض أو إلى مدن المملكة.
+                    </p>
+                </div>
+
+                <div class="row g-4 mt-3">
+                    <div class="col-lg-5">
+                        <div class="contact-info">
+                            <h3>يسعدنا تواصلك معنا</h3>
+                            <p>
+                                أخبرنا بموقعك الحالي والمدينة التي ترغب في الانتقال إليها
+                                ونوع الخدمة المطلوبة، لنساعدك في ترتيب طلبك.
+                            </p>
+
+                            <a href="tel:0575103571" class="contact-item">
+                                <span class="contact-icon">
+                                    <i class="fa-solid fa-phone"></i>
+                                </span>
+                                <span>
+                                    <small>اتصل بنا</small>
+                                    <strong dir="ltr">0575103571</strong>
+                                </span>
+                            </a>
+
+                            <a href="https://wa.me/966575103571" target="_blank" rel="noopener"
+                                class="contact-item">
+                                <span class="contact-icon">
+                                    <i class="fa-brands fa-whatsapp"></i>
+                                </span>
+                                <span>
+                                    <small>تواصل عبر واتساب</small>
+                                    <strong>أرسل استفسارك الآن</strong>
+                                </span>
+                            </a>
+
+                            <div class="contact-item">
+                                <span class="contact-icon">
+                                    <i class="fa-solid fa-location-dot"></i>
+                                </span>
+                                <span>
+                                    <small>نطاق الخدمة</small>
+                                    <strong>داخل الرياض وخارجها إلى مدن المملكة</strong>
+                                </span>
+                            </div>
+
+                            <div class="coverage-box">
+                                <h4>
+                                    <i class="fa-solid fa-map-location-dot"></i>
+                                    خدماتنا تشمل
+                                </h4>
+                                <div class="coverage-list">
+                                    <span>شمال الرياض</span>
+                                    <span>جنوب الرياض</span>
+                                    <span>شرق الرياض</span>
+                                    <span>غرب الرياض</span>
+                                    <span>مدن المملكة</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-7">
+                        <div class="contact-form-card">
+                            <h3>اطلب خدمة النقل</h3>
+                            <p>
+                                أدخل بياناتك وتفاصيل انتقالك، وسيتم تجهيز رسالة
+                                تحتوي على طلبك لفتحها عبر واتساب.
+                            </p>
+
+                            <form id="contactForm">
+                                <div class="row g-3">
+                                    <div class="col-md-6">
+                                        <label for="customerName" class="form-label">
+                                            الاسم الكامل
+                                        </label>
+                                        <input type="text" class="form-control" id="customerName"
+                                            placeholder="اكتب اسمك" autocomplete="name" required>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <label for="customerPhone" class="form-label">
+                                            رقم الجوال
+                                        </label>
+                                        <input type="tel" class="form-control" id="customerPhone"
+                                            placeholder="رقم التواصل" autocomplete="tel" required>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <label for="serviceType" class="form-label">
+                                            الخدمة المطلوبة
+                                        </label>
+                                        <select class="form-select" id="serviceType" required>
+                                            <option value="">اختر الخدمة</option>
+                                            <option>نقل عفش وأثاث</option>
+                                            <option>فك وتركيب أثاث</option>
+                                            <option>نقل مكيفات</option>
+                                            <option>تخزين عفش</option>
+                                            <option>خدمات متعددة</option>
+                                        </select>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <label for="moveType" class="form-label">
+                                            نوع النقل
+                                        </label>
+                                        <select class="form-select" id="moveType" required>
+                                            <option value="">حدد نوع النقل</option>
+                                            <option>داخل الرياض</option>
+                                            <option>من الرياض إلى مدينة أخرى</option>
+                                            <option>من مدينة أخرى إلى الرياض</option>
+                                            <option>بين مدن المملكة</option>
+                                        </select>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <label for="district" class="form-label">
+                                            مدينة أو منطقة الانطلاق
+                                        </label>
+                                        <input type="text" class="form-control" id="district"
+                                            placeholder="مثال: الرياض، حي النرجس" required>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <label for="destination" class="form-label">
+                                            مدينة أو منطقة الوصول
+                                        </label>
+                                        <input type="text" class="form-control" id="destination"
+                                            placeholder="حدد وجهتك" required>
+                                    </div>
+
+                                    <div class="col-12">
+                                        <label for="details" class="form-label">
+                                            تفاصيل إضافية
+                                        </label>
+                                        <textarea class="form-control" id="details" rows="4"
+                                            placeholder="عدد الغرف، الدور، موعد النقل أو أي تفاصيل أخرى"></textarea>
+                                    </div>
+
+                                    <div class="col-12">
+                                        <button type="submit" class="btn btn-main w-100 btn-lg">
+                                            <i class="fa-brands fa-whatsapp"></i>
+                                            إرسال الطلب عبر واتساب
+                                        </button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="location-section" id="location" dir="rtl">
+            <div class="container">
+
+                <div class="location-header">
+                    <span class="location-eyebrow">
+                        <i class="fas fa-map-marker-alt"></i>
+                        موقعنا على الخريطة
+                    </span>
+
+                    <h2>نسعد <span>بزيارتكم</span></h2>
+
+                    <p>
+                        موقعنا واضح وسهل الوصول إليه، يمكنك الاطلاع على الخريطة
+                        والحصول على الاتجاهات للوصول إلينا بكل سهولة.
+                    </p>
+                </div>
+
+                <div class="location-card">
+
+                    <div class="location-info">
+                        <div class="location-icon">
+                            <i class="fas fa-location-dot"></i>
+                        </div>
+
+                        <div class="location-info-text">
+                            <span class="location-label">عنوان الموقع</span>
+                            <h3>موقعنا الرئيسي</h3>
+                            <p>المملكة العربية السعودية</p>
+                        </div>
+
+                        <div class="location-status">
+                            <span></span>
+                            عرض الخريطة
+                        </div>
+                    </div>
+
+                    <div class="location-map">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3621.484564372779!2d46.6265137!3d24.8130973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2ee500093ce217%3A0xcf868d43b273140!2z2K3ZiiDYp9mE2YrYp9iz2YXZitmG!5e0!3m2!1sar!2seg!4v1792589389519!5m2!1sar!2seg"
+                            title="موقعنا على خرائط جوجل" loading="lazy" allowfullscreen
+                            referrerpolicy="strict-origin-when-cross-origin">
+                        </iframe>
+                    </div>
+
+                    <div class="location-footer">
+                        <div class="location-footer-text">
+                            <i class="fas fa-route"></i>
+                            <div>
+                                <h4>هل ترغب في زيارتنا؟</h4>
+                                <p>افتح خرائط جوجل لمعرفة أفضل طريق للوصول إلينا.</p>
+                            </div>
+                        </div>
+
+                        <a href="https://www.google.com/maps?q=24.8130973,46.6265137" target="_blank"
+                            rel="noopener noreferrer" class="location-directions">
+                            <span>احصل على الاتجاهات</span>
+                            <i class="fas fa-arrow-left"></i>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-lg-5">
+                    <a class="navbar-brand footer-brand" href="#home">
+                        <span class="brand-icon"><i class="fa-solid fa-truck-fast"></i></span>
+                        <span class="brand-name">المتحدة <small>لنقل العفش والمكيفات</small></span>
+                    </a>
+                    <p class="footer-description">خدمات نقل الأثاث والمكيفات وتخزين العفش في الرياض، مع الاهتمام
+                        بالتنظيم والعناية بممتلكاتك.</p>
+                </div>
+                <div class="col-6 col-lg-3">
+                    <h4>روابط سريعة</h4>
+                    <ul class="footer-links">
+                        <li><a href="#about">من نحن</a></li>
+                        <li><a href="#services">خدماتنا</a></li>
+                        <li><a href="#why-us">لماذا نحن</a></li>
+                        <li><a href="#works">أعمالنا</a></li>
+                        <li><a href="#contact">تواصل معنا</a></li>
+                    </ul>
+                </div>
+                <div class="col-6 col-lg-4">
+                    <h4>تواصل معنا</h4>
+                    <a href="tel:0575103571" class="footer-contact"><i class="fa-solid fa-phone"></i> 0575103571</a>
+                    <a href="https://wa.me/966575103571" target="_blank" rel="noopener" class="footer-contact"><i
+                            class="fa-brands fa-whatsapp"></i> واتساب</a>
+                    <span class="footer-contact"><i class="fa-solid fa-location-dot"></i> الرياض، السعودية</span>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>جميع الحقوق محفوظة © <span id="currentYear"></span> المتحدة لنقل العفش والمكيفات بالرياض</p>
+                <a href="#home">العودة للأعلى <i class="fa-solid fa-arrow-up"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <div class="floating-contact">
+        <a href="tel:0575103571" class="floating-phone" aria-label="اتصل بنا"><i class="fa-solid fa-phone"></i></a>
+        <a href="https://wa.me/966575103571" target="_blank" rel="noopener" class="floating-whatsapp"
+            aria-label="تواصل عبر واتساب"><i class="fa-brands fa-whatsapp"></i></a>
+    </div>
+
+    <button id="backToTop" aria-label="العودة إلى الأعلى"><i class="fa-solid fa-arrow-up"></i></button>
+    <script src="js/bootstrap.bundle.min.js"></script>
+
+    <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+    <script src="js/index.js"></script>
+</body>
+
+</html>
